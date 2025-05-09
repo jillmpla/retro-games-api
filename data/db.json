@@ -1,0 +1,84 @@
+{
+  "Game": [
+    {
+      "title": "Super Mario World",
+      "platform": "Super Nintendo (SNES)",
+      "genre": "Platformer",
+      "year": 1990,
+      "rating": 10,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/3/3b/Super_Mario_World_Coverart.png"
+    },
+    {
+      "title": "Sonic the Hedgehog",
+      "platform": "Sega Genesis",
+      "genre": "Platformer",
+      "year": 1991,
+      "rating": 9,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Sonic_the_Hedgehog_1_Genesis_box_art.jpg/220px-Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platform": "Nintendo 64",
+      "genre": "Action-Adventure",
+      "year": 1998,
+      "rating": 10,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg"
+    },
+    {
+      "title": "Street Fighter II",
+      "platform": "Super Nintendo (SNES)",
+      "genre": "Fighting",
+      "year": 1991,
+      "rating": 8,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Street_Fighter_II_SNES_box_art.jpg/220px-Street_Fighter_II_SNES_box_art.jpg"
+    },
+    {
+      "title": "Tetris",
+      "platform": "Game Boy",
+      "genre": "Puzzle",
+      "year": 1989,
+      "rating": 9,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Tetris_Boxshot.jpg/220px-Tetris_Boxshot.jpg"
+    },
+    {
+      "title": "Crash Bandicoot",
+      "platform": "PlayStation",
+      "genre": "Platformer",
+      "year": 1996,
+      "rating": 8,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Crash_Bandicoot_Cover.png/220px-Crash_Bandicoot_Cover.png"
+    },
+    {
+      "title": "GoldenEye 007",
+      "platform": "Nintendo 64",
+      "genre": "Shooter",
+      "year": 1997,
+      "rating": 9,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/GoldenEye007box.jpg/220px-GoldenEye007box.jpg"
+    },
+    {
+      "title": "Metroid",
+      "platform": "NES",
+      "genre": "Action",
+      "year": 1986,
+      "rating": 8,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Metroidbox.jpg/220px-Metroidbox.jpg"
+    },
+    {
+      "title": "Mega Man 2",
+      "platform": "NES",
+      "genre": "Action-Platformer",
+      "year": 1988,
+      "rating": 9,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Mega_Man_2_Coverart.png/220px-Mega_Man_2_Coverart.png"
+    },
+    {
+      "title": "Final Fantasy VII",
+      "platform": "PlayStation",
+      "genre": "RPG",
+      "year": 1997,
+      "rating": 10,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Final_Fantasy_VII_Box_Art.jpg/220px-Final_Fantasy_VII_Box_Art.jpg"
+    }
+  ]
+}
