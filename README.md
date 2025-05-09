@@ -125,4 +125,3 @@ understand how you can continue to add features to this application.
 This project is licensed under the MIT License. See the [License](LICENSE.txt) file for details.
 
 ## If you find this project useful, consider giving it a star! ⭐
-___
